@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f56a5897137225874b209898ac6358cb",
+    "revision": "b74c9d43f59e2aa104309342bbb465ec",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "38505026e72751bb886d",
+    "revision": "be2d1a7d82835a80ce11",
     "url": "/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.b0a3a636.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38505026e72751bb886d",
-    "url": "/static/js/main.906feb48.chunk.js"
+    "revision": "be2d1a7d82835a80ce11",
+    "url": "/static/js/main.7a2b94c0.chunk.js"
   },
   {
     "revision": "f51ebd839babb0aa8ec1",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cavani.0515db6f.jpg"
   },
   {
-    "revision": "4cefc024d0c6836f379f37feb96904a9",
-    "url": "/static/media/close-cursor.4cefc024.svg"
+    "revision": "132b8c92dadbeb3f4c9f7992427467e3",
+    "url": "/static/media/close-cursor.132b8c92.svg"
   },
   {
-    "revision": "6261e4cf7b60da49ab6846827a24c119",
-    "url": "/static/media/close-cursor.6261e4cf.svg"
+    "revision": "424569e2f7386793ce9bff91b25053e5",
+    "url": "/static/media/close-cursor.424569e2.svg"
   },
   {
     "revision": "958987ef1624ed808167e28e90a7dba8",
