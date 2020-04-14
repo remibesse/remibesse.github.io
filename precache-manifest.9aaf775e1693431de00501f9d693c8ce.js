@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5905b1e1f185b333a331f12672d6aff2",
+    "revision": "62becd63f3ce78e827e90b71082ee9b6",
     "url": "/index.html"
   },
   {
-    "revision": "12a00870d72f051235bb",
+    "revision": "3e544d22c41b57cebf9e",
     "url": "/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "80ee6ca000520072dd0d",
+    "revision": "a1a3613c216c1b6c7303",
     "url": "/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "12a00870d72f051235bb",
-    "url": "/static/js/2.30fb3135.chunk.js"
+    "revision": "3e544d22c41b57cebf9e",
+    "url": "/static/js/2.92bcc826.chunk.js"
   },
   {
-    "revision": "348e18c767030a34e3e00df7559622cb",
-    "url": "/static/js/2.30fb3135.chunk.js.LICENSE.txt"
+    "revision": "89ea5e0ed13930f7b9c9c2f392e27cfe",
+    "url": "/static/js/2.92bcc826.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80ee6ca000520072dd0d",
-    "url": "/static/js/main.537bc704.chunk.js"
+    "revision": "a1a3613c216c1b6c7303",
+    "url": "/static/js/main.92c58d7f.chunk.js"
   },
   {
     "revision": "f51ebd839babb0aa8ec1",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/about.b189ac25.mp4"
   },
   {
-    "revision": "91e2a9009c2ee9c7f39915a1618c9083",
-    "url": "/static/media/accorhotels.91e2a900.jpg"
+    "revision": "1d53e05ef571a4c4047ca71be41242c8",
+    "url": "/static/media/accorhotels.1d53e05e.jpg"
   },
   {
     "revision": "a963fc38812351aa0d890209b41a5883",
@@ -64,12 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/close-cursor.424569e2.svg"
   },
   {
-    "revision": "1f1a0be47f5e4e52c24bd4c3d2279d92",
-    "url": "/static/media/complex.1f1a0be4.jpg"
-  },
-  {
     "revision": "958987ef1624ed808167e28e90a7dba8",
     "url": "/static/media/complex.958987ef.mp4"
+  },
+  {
+    "revision": "dbde9b52f69e5ea2e47a7e57c85676d5",
+    "url": "/static/media/complex.dbde9b52.jpg"
   },
   {
     "revision": "d99f34be7489f17dbe085481ddf1908a",
@@ -120,20 +120,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/havana2.0b867d3f.jpg"
   },
   {
+    "revision": "6bb11d89b6e42f08236f79608ea32703",
+    "url": "/static/media/indicators.6bb11d89.svg"
+  },
+  {
     "revision": "f1c5516fc523ca318f2df78b96858b56",
     "url": "/static/media/intro.f1c5516f.mp4"
   },
   {
-    "revision": "c18cdd973ad276320a2b748049053ff2",
-    "url": "/static/media/nextArrow.c18cdd97.svg"
+    "revision": "8a75c39aaa1ba8366b4293dfe7da9fb8",
+    "url": "/static/media/nextArrow.8a75c39a.svg"
   },
   {
     "revision": "0e60c04e8ec7d134c654b899b2e82478",
     "url": "/static/media/portrait.0e60c04e.jpg"
   },
   {
-    "revision": "e3562da341b1f02041f3e231e798397f",
-    "url": "/static/media/prevArrow.e3562da3.svg"
+    "revision": "cdfe28b4c0f832b732fbe437a42b82bf",
+    "url": "/static/media/prevArrow.cdfe28b4.svg"
   },
   {
     "revision": "5b2b00937c129e59b6f5b09677e633df",
