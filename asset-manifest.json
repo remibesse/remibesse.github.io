@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.237612f8.chunk.js",
-    "main.js.map": "/static/js/main.237612f8.chunk.js.map",
+    "main.js": "/static/js/main.15578a6f.chunk.js",
+    "main.js.map": "/static/js/main.15578a6f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dd53b747.js",
     "runtime-main.js.map": "/static/js/runtime-main.dd53b747.js.map",
     "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.2b790d63.chunk.js": "/static/js/2.2b790d63.chunk.js",
-    "static/js/2.2b790d63.chunk.js.map": "/static/js/2.2b790d63.chunk.js.map",
+    "static/js/2.91cab6bf.chunk.js": "/static/js/2.91cab6bf.chunk.js",
+    "static/js/2.91cab6bf.chunk.js.map": "/static/js/2.91cab6bf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9a77c54cdf781897c9cd65dda5c1fa2e.js": "/precache-manifest.9a77c54cdf781897c9cd65dda5c1fa2e.js",
+    "precache-manifest.f6416df9e66bddaa0e880c45b7238356.js": "/precache-manifest.f6416df9e66bddaa0e880c45b7238356.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.2b790d63.chunk.js.LICENSE.txt": "/static/js/2.2b790d63.chunk.js.LICENSE.txt",
+    "static/js/2.91cab6bf.chunk.js.LICENSE.txt": "/static/js/2.91cab6bf.chunk.js.LICENSE.txt",
     "static/media/about.mp4": "/static/media/about.b189ac25.mp4",
     "static/media/accorhotels.jpg": "/static/media/accorhotels.63632b8b.jpg",
     "static/media/adidas.jpg": "/static/media/adidas.c4d9aa13.jpg",
@@ -21,11 +21,9 @@
     "static/media/blue.jpg": "/static/media/blue.5e08b011.jpg",
     "static/media/budweiser.jpg": "/static/media/budweiser.1e179eac.jpg",
     "static/media/cavani.jpg": "/static/media/cavani.b5963611.jpg",
-    "static/media/close-cursor.svg": "/static/media/close-cursor.424569e2.svg",
+    "static/media/close-cursor.svg": "/static/media/close-cursor.132b8c92.svg",
     "static/media/complex.mp4": "/static/media/complex.958987ef.mp4",
     "static/media/complex.jpg": "/static/media/complex.d4d128a3.jpg",
-    "static/media/cursor-center.svg": "/static/media/cursor-center.d99f34be.svg",
-    "static/media/cursor.svg": "/static/media/cursor.51d46d14.svg",
     "static/media/dimanche.jpg": "/static/media/dimanche.2d61d6f8.jpg",
     "static/media/duo.jpg": "/static/media/duo.16a48fdc.jpg",
     "static/media/face.jpg": "/static/media/face.c14b3fc6.jpg",
@@ -34,6 +32,7 @@
     "static/media/favicon.png": "/static/media/favicon.0cfc9d2a.png",
     "static/media/fuck.jpg": "/static/media/fuck.f44d7af1.jpg",
     "static/media/giveafuck.jpg": "/static/media/giveafuck.2aad0e5e.jpg",
+    "static/media/havana-club.mp4": "/static/media/havana-club.8f94dea5.mp4",
     "static/media/havana.jpg": "/static/media/havana.89611513.jpg",
     "static/media/havana1.jpg": "/static/media/havana1.98aeb676.jpg",
     "static/media/havana2.jpg": "/static/media/havana2.81a1fd70.jpg",
@@ -60,8 +59,8 @@
   "entrypoints": [
     "static/js/runtime-main.dd53b747.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.2b790d63.chunk.js",
+    "static/js/2.91cab6bf.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.237612f8.chunk.js"
+    "static/js/main.15578a6f.chunk.js"
   ]
 }
