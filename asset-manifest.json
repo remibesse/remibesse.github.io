@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.ab8c4350.chunk.js",
-    "main.js.map": "/static/js/main.ab8c4350.chunk.js.map",
+    "main.js": "/static/js/main.48277758.chunk.js",
+    "main.js.map": "/static/js/main.48277758.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dd53b747.js",
     "runtime-main.js.map": "/static/js/runtime-main.dd53b747.js.map",
     "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.d0d6dc79.chunk.js": "/static/js/2.d0d6dc79.chunk.js",
-    "static/js/2.d0d6dc79.chunk.js.map": "/static/js/2.d0d6dc79.chunk.js.map",
+    "static/js/2.af78fdd9.chunk.js": "/static/js/2.af78fdd9.chunk.js",
+    "static/js/2.af78fdd9.chunk.js.map": "/static/js/2.af78fdd9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a963d9b94844e5b37ce18289b147bb26.js": "/precache-manifest.a963d9b94844e5b37ce18289b147bb26.js",
+    "precache-manifest.f66774b872a2c9e39dcf7f8e5b6d6e03.js": "/precache-manifest.f66774b872a2c9e39dcf7f8e5b6d6e03.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.d0d6dc79.chunk.js.LICENSE.txt": "/static/js/2.d0d6dc79.chunk.js.LICENSE.txt",
+    "static/js/2.af78fdd9.chunk.js.LICENSE.txt": "/static/js/2.af78fdd9.chunk.js.LICENSE.txt",
     "static/media/about.jpg": "/static/media/about.f4d73ee6.jpg",
     "static/media/aboutbackground.jpg": "/static/media/aboutbackground.9bb51727.jpg",
     "static/media/accorhotels.jpg": "/static/media/accorhotels.3bc8f91d.jpg",
+    "static/media/adidas.mp4": "/static/media/adidas.9209ce4c.mp4",
     "static/media/adidas.jpg": "/static/media/adidas.92f4dbef.jpg",
+    "static/media/adidas2.jpg": "/static/media/adidas2.2c099dcd.jpg",
+    "static/media/adidas3.jpg": "/static/media/adidas3.3312a599.jpg",
     "static/media/background.jpg": "/static/media/background.34e82ea8.jpg",
     "static/media/blue.jpg": "/static/media/blue.97ab28ad.jpg",
     "static/media/breathe.jpg": "/static/media/breathe.b488c2ad.jpg",
@@ -106,8 +109,8 @@
   "entrypoints": [
     "static/js/runtime-main.dd53b747.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.d0d6dc79.chunk.js",
+    "static/js/2.af78fdd9.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ab8c4350.chunk.js"
+    "static/js/main.48277758.chunk.js"
   ]
 }
