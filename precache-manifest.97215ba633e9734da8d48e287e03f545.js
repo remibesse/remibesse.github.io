@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "400c259e06e3ed42a2efe40f1ec52411",
+    "revision": "c064dc0c2905b48b195abe15842d89c2",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "1836ffe3bb820c364565",
+    "revision": "d6d4681f76d3bfdb04c0",
     "url": "/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.08b23305.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1836ffe3bb820c364565",
-    "url": "/static/js/main.84dabd0d.chunk.js"
+    "revision": "d6d4681f76d3bfdb04c0",
+    "url": "/static/js/main.735f91e1.chunk.js"
   },
   {
     "revision": "f51ebd839babb0aa8ec1",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/adidas3.3312a599.jpg"
   },
   {
-    "revision": "13ed08d8a896cd4baf4646530e001dcd",
-    "url": "/static/media/background.13ed08d8.jpg"
+    "revision": "23342f4b40b35494d23c8d2f9b2644d1",
+    "url": "/static/media/background.23342f4b.jpg"
   },
   {
     "revision": "a25ad59561d2508fbc75f7263e3ed667",
