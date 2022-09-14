@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.09853630.chunk.js",
-    "main.js.map": "/static/js/main.09853630.chunk.js.map",
+    "main.js": "/static/js/main.1603081c.chunk.js",
+    "main.js.map": "/static/js/main.1603081c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dd53b747.js",
     "runtime-main.js.map": "/static/js/runtime-main.dd53b747.js.map",
     "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f4c0048e.chunk.js": "/static/js/2.f4c0048e.chunk.js",
-    "static/js/2.f4c0048e.chunk.js.map": "/static/js/2.f4c0048e.chunk.js.map",
+    "static/js/2.27b4cf9d.chunk.js": "/static/js/2.27b4cf9d.chunk.js",
+    "static/js/2.27b4cf9d.chunk.js.map": "/static/js/2.27b4cf9d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.93527c2162e4fcbc041f00780eff8364.js": "/precache-manifest.93527c2162e4fcbc041f00780eff8364.js",
+    "precache-manifest.02322cc66311034d4f28e5a8639f9a08.js": "/precache-manifest.02322cc66311034d4f28e5a8639f9a08.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.f4c0048e.chunk.js.LICENSE.txt": "/static/js/2.f4c0048e.chunk.js.LICENSE.txt",
+    "static/js/2.27b4cf9d.chunk.js.LICENSE.txt": "/static/js/2.27b4cf9d.chunk.js.LICENSE.txt",
     "static/media/about.jpg": "/static/media/about.cdff9547.jpg",
     "static/media/aboutbackground.jpg": "/static/media/aboutbackground.9bb51727.jpg",
     "static/media/adidas.jpg": "/static/media/adidas.50f21b62.jpg",
@@ -54,6 +54,7 @@
     "static/media/nike.jpg": "/static/media/nike.dde3ffa8.jpg",
     "static/media/oboy.jpg": "/static/media/oboy.54c79a93.jpg",
     "static/media/overall.jpg": "/static/media/overall.44b5ab19.jpg",
+    "static/media/overallVideo.mp4": "/static/media/overallVideo.636e515e.mp4",
     "static/media/palace.jpg": "/static/media/palace.32718b5d.jpg",
     "static/media/prevArrow.svg": "/static/media/prevArrow.cdfe28b4.svg",
     "static/media/psgjordan.jpg": "/static/media/psgjordan.45f94485.jpg",
@@ -78,8 +79,8 @@
   "entrypoints": [
     "static/js/runtime-main.dd53b747.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f4c0048e.chunk.js",
+    "static/js/2.27b4cf9d.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.09853630.chunk.js"
+    "static/js/main.1603081c.chunk.js"
   ]
 }
