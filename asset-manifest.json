@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.be1d5553.chunk.js",
-    "main.js.map": "/static/js/main.be1d5553.chunk.js.map",
+    "main.js": "/static/js/main.0826b6da.chunk.js",
+    "main.js.map": "/static/js/main.0826b6da.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dd53b747.js",
     "runtime-main.js.map": "/static/js/runtime-main.dd53b747.js.map",
     "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
     "static/js/2.55f19312.chunk.js": "/static/js/2.55f19312.chunk.js",
     "static/js/2.55f19312.chunk.js.map": "/static/js/2.55f19312.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8dae231a5114daa1ee30870983415dd3.js": "/precache-manifest.8dae231a5114daa1ee30870983415dd3.js",
+    "precache-manifest.ad9847f86d7e67fd6259fe74da67c068.js": "/precache-manifest.ad9847f86d7e67fd6259fe74da67c068.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
@@ -54,6 +54,7 @@
     "static/media/oboy.jpg": "/static/media/oboy.54c79a93.jpg",
     "static/media/overall.mp4": "/static/media/overall.18268923.mp4",
     "static/media/palace.jpg": "/static/media/palace.32718b5d.jpg",
+    "static/media/portrait.jpg": "/static/media/portrait.a51710b8.jpg",
     "static/media/prevArrow.svg": "/static/media/prevArrow.cdfe28b4.svg",
     "static/media/psgjordan.jpg": "/static/media/psgjordan.45f94485.jpg",
     "static/media/ras.jpg": "/static/media/ras.de3cc232.jpg",
@@ -67,7 +68,6 @@
     "static/media/red.jpg": "/static/media/red.7d7b2a85.jpg",
     "static/media/scald.mp4": "/static/media/scald.a6913357.mp4",
     "static/media/sdm.mp4": "/static/media/sdm.b240f5b0.mp4",
-    "static/media/selfportrait.jpg": "/static/media/selfportrait.a51710b8.jpg",
     "static/media/smoke.jpg": "/static/media/smoke.9172b2c1.jpg",
     "static/media/streets.jpeg": "/static/media/streets.ef488153.jpeg",
     "static/media/trot.jpg": "/static/media/trot.dfa08c49.jpg",
@@ -79,6 +79,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.55f19312.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.be1d5553.chunk.js"
+    "static/js/main.0826b6da.chunk.js"
   ]
 }
